@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="spain">spain</string>
+    <string name="france">france</string>
+    <string name="albania">albania</string>
+    <string name="romania">romania</string>
+    <string name="poland">poland</string>
+    <string name="germany">germany</string>
+    <string name="italy">italy</string>
+</resources>

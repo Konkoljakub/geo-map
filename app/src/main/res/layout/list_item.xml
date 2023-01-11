@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+>
+
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="51dp"
+            android:layout_height="67dp"
+            android:layout_marginTop="50dp"
+            android:contentDescription="@string/germany"
+            android:rotation="-4"
+            android:src="@drawable/germanyss" />
+
+        <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="51dp"
+                android:layout_height="67dp"
+                android:contentDescription="@string/poland"
+                android:rotation="-4"
+                android:src="@drawable/polandss" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="50dp"
+                android:layout_height="55dp"
+                android:contentDescription="@string/romania"
+                android:rotation="-4"
+                android:src="@drawable/romaniass" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="28dp"
+                android:layout_height="25dp"
+                android:contentDescription="@string/albania"
+                android:rotation="-4"
+                android:src="@drawable/albanias" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="81dp"
+                android:layout_height="94dp"
+                android:contentDescription="@string/france"
+                android:rotation="4"
+                android:src="@drawable/francess"
+                android:layout_marginTop="0.754dp"/>
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="65dp"
+            android:layout_height="76dp"
+            android:contentDescription="@string/italy"
+            android:rotation="4"
+            android:src="@drawable/italyss" />
+
+    </RelativeLayout>
+
+</LinearLayout>
