@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //nowy komentarz
         Kraje germany = new Kraje("Niemcy","Berlin", 1, 1);
     }
 
