@@ -7,4 +7,23 @@
     <string name="poland">poland</string>
     <string name="germany">germany</string>
     <string name="italy">italy</string>
+    <string name="stolica">Stolica</string>
+    <string name="kraj">Kraj</string>
+    <string name="podpowied">Podpowiedź</string>
+    <string name="wr_do_ekranu_startowego">Wróć do ekranu startowego</string>
+    <string name="europa">Europa</string>
+    <string name="ciekawostki">Ciekawostki</string>
+    <string name="ameryka_p_n">Ameryka Płn</string>
+    <string name="menu">Menu</string>
+    <string name="ciekawostkisdsdf">Ciekawostki</string>
+    <string name="albania_ciekawostka">Językiem urzędowym Albanii jest język albański, a jej numer kierunkowy to 355</string>
+    <string name="francja_ciekawostka">Nazwa kraju Francja pochodzi od germańskiego plemienia Franków. Francja jest 1,8 razy większa od Polski.</string>
+    <string name="niemcy_ciekawostka">Niemcy słyną ze wszystkich form sztuki, ale przede wszystkim z muzyki klasycznej. Słynni niemieccy kompozytorzy to Bach, Schumann, Wagner i Beethoven.</string>
+    <string name="wlochy_ciekawostka">Nazwa kraju Włochy pochodzi od słowa italia, czyli „ziemia cielęca”. We włoskim alfabecie nie ma liter” W, X, Y, K oraz J.</string>
+    <string name="polska_ciekawostka">Polska niepodległość od Niemiec i Austro-Węgier odzyskała 11 listopada 1918 roku.</string>
+    <string name="rumunia_ciekawostka">Rumunia niepodległość od Imperium Osmańskiego uzyskała 9 maja 1877 roku.</string>
+    <string name="hiszpania_ciekawostka">Nazwa kraju Hiszpania wywodzi się od słowa Ispania, które oznacza Ziemię Królików.</string>
+    <string name="odbl_ciekaw">Kliknij aby poznać odblokowane ciekawostki...</string>
+    <string name="reset">Resetuj Postęp</string>
+    <string name="sooon">Comming soon...</string>
 </resources>
