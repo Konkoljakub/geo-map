@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"
+    app:circularflow_angles="5"
+    tools:context=".MenuActivity">
+
+    <Button
+        android:id="@+id/Eu_button"
+        android:layout_width="238dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#323D69BE"
+        android:elegantTextHeight="false"
+        android:fadingEdge="horizontal|vertical"
+        android:fontFamily="serif"
+        android:freezesText="true"
+        android:soundEffectsEnabled="true"
+        android:text="@string/europa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.317"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.613" />
+
+    <Button
+        android:id="@+id/Reset_button"
+        android:layout_width="238dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#323D69BE"
+        android:elegantTextHeight="false"
+        android:fadingEdge="horizontal|vertical"
+        android:fontFamily="serif"
+        android:freezesText="true"
+        android:soundEffectsEnabled="true"
+        android:text="@string/reset"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.317"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.873" />
+
+    <Button
+        android:id="@+id/Am_button"
+        android:layout_width="238dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#333D69BE"
+        android:fontFamily="serif"
+        android:soundEffectsEnabled="true"
+        android:text="@string/ameryka_p_n"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.317"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.698" />
+
+    <Button
+        android:id="@+id/Ciek_button"
+        android:layout_width="238dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#333D69BE"
+        android:fontFamily="serif"
+        android:soundEffectsEnabled="true"
+        android:text="@string/ciekawostki"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.317"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.784" />
+
+    <Button
+        android:id="@+id/ES_button"
+        android:layout_width="238dp"
+        android:layout_height="45dp"
+        android:backgroundTint="#333D69BE"
+        android:fontFamily="serif"
+        android:soundEffectsEnabled="true"
+        android:text="@string/wr_do_ekranu_startowego"
+        android:textSize="11sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.317"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.959" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
